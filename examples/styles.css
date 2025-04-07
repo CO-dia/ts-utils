@@ -5,3 +5,11 @@
   border-radius: 12px;
   color: white;
 }
+
+#doButton:hover {
+  background-color: darkblue;
+}
+
+#doButton:active {
+  background-color: red;
+}
